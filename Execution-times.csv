@@ -1,3 +1,6 @@
-N,      Execution Time in Seconds
+N,      Execution Time in Seconds for first alpha-beta-pair
+20,	10.77076172828674
+40,	66.23722100257874
+50,	116.1150982379913
 100,    789.1540184020996
 200,    5831.377012968063
